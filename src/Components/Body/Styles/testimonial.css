@@ -1,0 +1,124 @@
+.testimonial_bottom {
+  overflow: hidden;
+  position: relative;
+}
+.testimonial_bottom::before {
+  content: "";
+  font-family: "shape divider from ShapeDividers.com";
+  position: absolute;
+  z-index: 3;
+  pointer-events: none;
+  background-repeat: no-repeat;
+  bottom: -0.1vw;
+  left: -0.1vw;
+  right: -0.1vw;
+  top: -0.1vw;
+  background-size: 100% 90px;
+  background-position: 50% 0%;
+  background-image: url('data:image/svg+xml;charset=utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 381 59.27" preserveAspectRatio="none"><g fill="%23bef5de"><path d="M381 8.47L0 42.33V0h381z"/><path d="M381 33.87L0 59.27V0h381z" opacity=".66"/></g></svg>');
+}
+
+@media (min-width: 2100px) {
+  .testimonial_bottom::before {
+    background-size: 100% calc(2vw + 90px);
+  }
+}
+
+.Testimonial {
+  padding: 170px 80px 80px 80px;
+  /* background-color: rgb(150, 150, 150); */
+}
+
+.testimonial-title {
+  text-align: center;
+  font-family: var(--main-topic);
+}
+
+.testimonial-title1 {
+  font-size: 35px;
+}
+
+.testimonial-title2 {
+  font-size: 55px;
+  color: var(--light-purple);
+}
+
+.Testimonial-slider {
+  border: 8px solid rgb(223, 44, 255);
+  margin-top: 90px;
+  padding: 30px 30px;
+  border-radius: 30px;
+  border-style: double;
+  /* height: 340px; */
+  overflow: hidden;
+  /* box-sizing: border-box; */
+}
+
+.testimonial-box .symbol {
+  font: 45px var(--main-topic);
+}
+.testimonial-box .feedback {
+  font: 20px/1.3 var(--body-font);
+  padding-top: 20px;
+}
+.testimonial-box .student-name {
+  font: 20px var(--main-topic);
+  text-align: center;
+  padding-top: 10px;
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+}
+.slick-list {
+  margin: 0 10px;
+  /* margin-left: 20px; */
+}
+
+.next-arrow,
+.prev-arrow {
+  background-color: black;
+  border-radius: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  display: none;
+}
+
+.slick-next:hover,
+.slick-prev:hover {
+  color: var(--light-green);
+}
+
+.prev,
+.next {
+  font-size: 40px;
+  color: var(--light-purple);
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+
+.prev {
+  padding-left: 30px;
+}
+.next {
+  padding-right: 68px;
+}
+
+@media (max-width: 500px) {
+  .Testimonial {
+    margin-top: -1px;
+    padding: 150px 0px 80px 0px;
+  }
+}
+@media (max-width: 576px) {
+  .testimonial-title1 {
+    font-size: 30px;
+  }
+
+  .testimonial-title2 {
+    font-size: 35px;
+    color: var(--light-purple);
+  }
+}
