@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Muralitharan2002/EdScope/static/css/main.9fdd5ab1.css",
+    "main.js": "/Muralitharan2002/EdScope/static/js/main.52f81646.js",
+    "static/media/cambride.svg": "/Muralitharan2002/EdScope/static/media/cambride.a3490decb3404f7abd7e9b7a0dde5a0b.svg",
+    "static/media/java.png": "/Muralitharan2002/EdScope/static/media/java.41b4e045a288c8277118.png",
+    "static/media/digital.png": "/Muralitharan2002/EdScope/static/media/digital.be184714a0fb82f71001.png",
+    "static/media/react.png": "/Muralitharan2002/EdScope/static/media/react.2396fba8e812c61d5323.png",
+    "static/media/Image.png": "/Muralitharan2002/EdScope/static/media/Image.384386a2278713e34e76.png",
+    "static/media/flutter.png": "/Muralitharan2002/EdScope/static/media/flutter.4119e1da308dc9f8cbfe.png",
+    "static/media/home-svg.svg": "/Muralitharan2002/EdScope/static/media/home-svg.e092e432fe4574f25f054219005cb4e4.svg",
+    "static/media/oxford.svg": "/Muralitharan2002/EdScope/static/media/oxford.864a17cb1152c411cb8d36424d84c0d0.svg",
+    "static/media/tutor.svg": "/Muralitharan2002/EdScope/static/media/tutor.2451f9096a7d8bc7cb2fc9398b8519ef.svg",
+    "static/media/online-course.svg": "/Muralitharan2002/EdScope/static/media/online-course.2de22aa0b5353d98a0e68929f6b06be2.svg",
+    "static/media/duke.svg": "/Muralitharan2002/EdScope/static/media/duke.a110503d4f04f6a3097d2c5c0f1fd84a.svg",
+    "static/media/Backend.png": "/Muralitharan2002/EdScope/static/media/Backend.281fc5d3846ade449cd0.png",
+    "static/media/microsoft.svg": "/Muralitharan2002/EdScope/static/media/microsoft.6b220e077293f5c3f12455bb28e2546f.svg",
+    "static/media/google.svg": "/Muralitharan2002/EdScope/static/media/google.4dadfdd528ae0de8f38bf3ba0998e9d8.svg",
+    "static/media/meta.svg": "/Muralitharan2002/EdScope/static/media/meta.06bdd353035edd95f4da24fbb5f4803f.svg",
+    "static/media/linkedin.svg": "/Muralitharan2002/EdScope/static/media/linkedin.45717ed3ebe0b03af84bb8370802f795.svg",
+    "static/media/slick.svg": "/Muralitharan2002/EdScope/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Muralitharan2002/EdScope/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Muralitharan2002/EdScope/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Muralitharan2002/EdScope/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Muralitharan2002/EdScope/index.html",
+    "main.9fdd5ab1.css.map": "/Muralitharan2002/EdScope/static/css/main.9fdd5ab1.css.map",
+    "main.52f81646.js.map": "/Muralitharan2002/EdScope/static/js/main.52f81646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdd5ab1.css",
+    "static/js/main.52f81646.js"
+  ]
+}
